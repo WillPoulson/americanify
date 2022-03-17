@@ -1,0 +1,1 @@
+export { americanify } from './americanify';
